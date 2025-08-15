@@ -1,0 +1,12 @@
+../Src/main.c:50:6:ADC_Init_chan2	4	static
+../Src/main.c:69:14:ADC1_Read	4	static
+../Src/main.c:76:5:adc_to_pressure	48	static
+../Src/main.c:94:6:delay	16	static
+../Src/main.c:97:6:GPIO_Init	4	static
+../Src/main.c:112:6:TIM2_Init	4	static
+../Src/main.c:120:6:delay_ms	16	static
+../Src/main.c:126:6:USART1_Init	4	static
+../Src/main.c:147:6:USART1_Write	16	static
+../Src/main.c:153:6:USART1_Read	4	static
+../Src/main.c:158:6:print_str	16	static
+../Src/main.c:165:5:main	80	static
